@@ -13,7 +13,8 @@ El encabezado de la página web Glow Queen está diseñado para pantallas con un
 ## Vista previa en vivo 🌟
 
 Puedes ver una vista previa en vivo del encabezado ![Web Spa](/img/header_spa&beauty.png)
-[![Static Badge](https://img.shields.io/badge/Ver%20Codigo%20-%20%23A9D6CB?style=for-the-badge&logoColor=A9D6CB&labelColor=%23A9D6CB)](/src/)
+
+
 
 
 ## Uso 🚀
